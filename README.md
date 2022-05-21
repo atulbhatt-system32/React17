@@ -51,3 +51,12 @@ One can contribute by creating _pull requests_, or by opening _issues_ for disco
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Features List
+
+1. All the features of the [Create React App](https://create-react-app.dev)
+2. Stable and tested with React17
+3. Basic features to get started with React17
+   - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+   - [Carousel Library](https://www.npmjs.com/package/pure-react-carousel)
+   - [Responsive Modal / Overlay Library](https://react-responsive-modal.leopradel.com/)
